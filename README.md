@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![roadmap.sh](https://roadmap.sh/card/tall/6454efc705999de060baeb66?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/6454efc705999de060baeb66?variant=dark)](https://roadmap.sh)
 
 <!--
 **aaarnell/aaarnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
